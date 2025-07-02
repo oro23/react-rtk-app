@@ -1,0 +1,220 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Shadow Vortex",
+      "real_name": "Lena Ray",
+      "powers": ["Invisibility", "Teleportation", "Dark Energy Manipulation"],
+      "origin": "After a lab accident with a dark matter experiment.",
+      "affiliation": "Night Sentinels"
+    },
+    {
+      "id": 2,
+      "name": "Iron Blaze",
+      "real_name": "Marcus Trent",
+      "powers": ["Super Strength", "Fire Manipulation", "Flight"],
+      "origin": "Genetically enhanced during a military operation.",
+      "affiliation": "Global Defense League"
+    },
+    {
+      "id": 3,
+      "name": "Aetheria",
+      "real_name": "Dr. Zoya Khan",
+      "powers": ["Air Control", "Healing", "Weather Manipulation"],
+      "origin": "Inherited ancient relics from a sky-temple civilization.",
+      "affiliation": "Elemental Guardians"
+    },
+    {
+      "id": 4,
+      "name": "Neon Pulse",
+      "real_name": "Leo Alvarez",
+      "powers": ["Electric Shockwaves", "Tech Hacking", "Supersonic Speed"],
+      "origin": "Bitten by a rogue nanobot swarm.",
+      "affiliation": "Urban Defenders"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Void Whisper",
+      "real_name": "Nia Calder",
+      "origin": "Developed abilities after a failed quantum shadow experiment.",
+      "affiliation": "Night Sentinels"
+    },
+    {
+      "id": 2,
+      "name": "Pyrosteel",
+      "real_name": "Dante Cross",
+      "origin": "Enhanced through a covert defense biofusion project.",
+      "affiliation": "Global Defense League"
+    },
+    {
+      "id": 3,
+      "name": "Zephyra",
+      "real_name": "Dr. Amara Syed",
+      "origin": "Unlocked her powers via relics unearthed from ancient cloud temples.",
+      "affiliation": "Elemental Guardians"
+    },
+    {
+      "id": 4,
+      "name": "Voltstream",
+      "real_name": "Jax Moreno",
+      "origin": "Infected and transformed by an experimental nanotech swarm.",
+      "affiliation": "Urban Defenders"
+    }
+  ],
+  "users": [
+    {
+      "id": "admin@example.com",
+      "channelId": "code"
+    }
+  ],
+  "channels": [
+    {
+      "id": "code",
+      "courses": ["Angular", "React", "TypeScript"]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "Red",
+      "hex": "#FF0000",
+      "rgb": "rgb(255, 0, 0)",
+      "category": "Primary"
+    },
+    {
+      "id": 2,
+      "name": "Green",
+      "hex": "#00FF00",
+      "rgb": "rgb(0, 255, 0)",
+      "category": "Primary"
+    },
+    {
+      "id": 3,
+      "name": "Blue",
+      "hex": "#0000FF",
+      "rgb": "rgb(0, 0, 255)",
+      "category": "Primary"
+    },
+    {
+      "id": 4,
+      "name": "Cyan",
+      "hex": "#00FFFF",
+      "rgb": "rgb(0, 255, 255)",
+      "category": "Secondary"
+    },
+    {
+      "id": 5,
+      "name": "Magenta",
+      "hex": "#FF00FF",
+      "rgb": "rgb(255, 0, 255)",
+      "category": "Secondary"
+    },
+    {
+      "id": 6,
+      "name": "Yellow",
+      "hex": "#FFFF00",
+      "rgb": "rgb(255, 255, 0)",
+      "category": "Secondary"
+    },
+    {
+      "id": 7,
+      "name": "Black",
+      "hex": "#000000",
+      "rgb": "rgb(0, 0, 0)",
+      "category": "Neutral"
+    },
+    {
+      "id": 8,
+      "name": "White",
+      "hex": "#FFFFFF",
+      "rgb": "rgb(255, 255, 255)",
+      "category": "Neutral"
+    },
+    {
+      "id": 9,
+      "name": "Gray",
+      "hex": "#808080",
+      "rgb": "rgb(128, 128, 128)",
+      "category": "Neutral"
+    },
+    {
+      "id": 10,
+      "name": "Orange",
+      "hex": "#FFA500",
+      "rgb": "rgb(255, 165, 0)",
+      "category": "Warm"
+    },
+    {
+      "id": 11,
+      "name": "Pink",
+      "hex": "#FFC0CB",
+      "rgb": "rgb(255, 192, 203)",
+      "category": "Warm"
+    },
+    {
+      "id": 12,
+      "name": "Purple",
+      "hex": "#800080",
+      "rgb": "rgb(128, 0, 128)",
+      "category": "Cool"
+    },
+    {
+      "id": 13,
+      "name": "Brown",
+      "hex": "#A52A2A",
+      "rgb": "rgb(165, 42, 42)",
+      "category": "Earth"
+    },
+    {
+      "id": 14,
+      "name": "Olive",
+      "hex": "#808000",
+      "rgb": "rgb(128, 128, 0)",
+      "category": "Earth"
+    },
+    {
+      "id": 15,
+      "name": "Teal",
+      "hex": "#008080",
+      "rgb": "rgb(0, 128, 128)",
+      "category": "Cool"
+    },
+    {
+      "id": 16,
+      "name": "Navy",
+      "hex": "#000080",
+      "rgb": "rgb(0, 0, 128)",
+      "category": "Cool"
+    },
+    {
+      "id": 17,
+      "name": "Lime",
+      "hex": "#BFFF00",
+      "rgb": "rgb(191, 255, 0)",
+      "category": "Bright"
+    },
+    {
+      "id": 18,
+      "name": "Gold",
+      "hex": "#FFD700",
+      "rgb": "rgb(255, 215, 0)",
+      "category": "Metallic"
+    },
+    {
+      "id": 19,
+      "name": "Silver",
+      "hex": "#C0C0C0",
+      "rgb": "rgb(192, 192, 192)",
+      "category": "Metallic"
+    },
+    {
+      "id": 20,
+      "name": "Coral",
+      "hex": "#FF7F50",
+      "rgb": "rgb(255, 127, 80)",
+      "category": "Warm"
+    }
+  ]
+}
